@@ -1,6 +1,6 @@
 # BossiBot
 
-BossiBot est un bot Telegram conçu pour faciliter les transactions de satoshis via des commandes textuelles et vocales. Il permet d'envoyer des satoshis à d'autres utilisateurs, de gérer des contacts et d'effectuer des paiements via le réseau Lightning.
+BossiBot est un bot Telegram conçu pour faciliter les transactions de satoshis via des commandes textuelles et vocales. Il permet d'envoyer des satoshis à d'autres utilisateurs, de gérer des contacts et d'effectuer des paiements via le réseau Lightning Network.
 
 ## Fonctionnalités
 
